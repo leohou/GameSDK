@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
     #s.dependency 'FBSDKShareKit'
     s.dependency 'FBSDKLoginKit'
     s.dependency 'Google-Mobile-Ads-SDK'
-  s.ios.vendored_frameworks   = 'ios/iOSSDK.framework','ios/WSToolsLib.framework'
+  s.ios.vendored_frameworks   = 'ios/*.framework'
   #pod上使用xcassets 这个图片打包会出问题
 s.resource=['ios/Resource/**/*.{xib,cer}']
 end
