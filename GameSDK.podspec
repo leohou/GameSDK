@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = "iOSSDK"
+  s.name = "GameSDK"
   s.version = "1.0"
   s.summary = "GameSDK"
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
