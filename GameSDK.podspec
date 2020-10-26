@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = "https://github.com/leohou/GameSDK.git"
   s.description = "TODO: Add long description of the pod here."
   s.frameworks = ["UIKit", "Foundation", "CoreTelephony", "SystemConfiguration", "CoreGraphics", "AdSupport", "Security", "WebKit"]
-  s.xcconfig = {"OTHER_LDFLAGS"=>"-lObjC"}
+  s.xcconfig = {"OTHER_LDFLAGS"=>"-ObjC"}
   s.source = { :path => '.' }
 
   s.ios.deployment_target    = '8.0'
