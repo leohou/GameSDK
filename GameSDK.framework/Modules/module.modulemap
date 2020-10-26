@@ -1,6 +1,0 @@
-framework module GameSDK {
-  umbrella header "GameSDK.h"
-
-  export *
-  module * { export * }
-}
