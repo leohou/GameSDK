@@ -12,9 +12,9 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target    = '8.0'
       #依赖关系，该项目所依赖的其他库，如果有多个需要填写多个s.dependency
-    #s.dependency 'FBSDKShareKit'
-    #s.dependency 'FBSDKLoginKit'
-    #s.dependency 'Google-Mobile-Ads-SDK'
+    s.dependency 'FBSDKShareKit'
+    s.dependency 'FBSDKLoginKit'
+    s.dependency 'Google-Mobile-Ads-SDK'
   s.ios.vendored_framework  = 'GameSDK.framework'
   #pod上使用xcassets 这个图片打包会出问题
 s.resource=['ios/Resource/**/*.{xib,cer}']
