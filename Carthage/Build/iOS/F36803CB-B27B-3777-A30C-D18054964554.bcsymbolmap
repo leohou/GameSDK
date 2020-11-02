@@ -1,0 +1,25 @@
+BCSymbolMap Version: 2.0
+Apple clang version 11.0.3 (clang-1103.0.32.62)
+/Users/houli/Library/Developer/Xcode/DerivedData/GameSDK-bfxjfqnbprclxfeyjulwaikymqyv/Build/Intermediates.noindex/ArchiveIntermediates/GameSDK/IntermediateBuildFilesPath/GameSDK.build/Release-iphoneos/GameSDK.build/DerivedSources/GameSDK_vers.c
+/Users/houli/Desktop/demo/GameSDK
+-[TestManager test]
+-[TestManager loginButtonClicked]
+___33-[TestManager loginButtonClicked]_block_invoke
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_CLASSLIST_REFERENCES_$_.5
+_OBJC_SELECTOR_REFERENCES_.7
+___block_descriptor_32_e50_v24?0"FBSDKLoginManagerLoginResult"8"NSError"16l
+___block_literal_global
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.22
+__OBJC_METACLASS_RO_$_TestManager
+__OBJC_$_INSTANCE_METHODS_TestManager
+__OBJC_CLASS_RO_$_TestManager
+_OBJC_LABEL_CLASS_$
+/Users/houli/Desktop/demo/GameSDK/GameSDK/TestManager.m
+__33-[TestManager loginButtonClicked]_block_invoke
+GameSDK/TestManager.m
