@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary = "GameSDK"
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"wesaiPublic"=>"app@wesai.com"}
-  s.homepage = "https://github.com/leohou/GameSDK.git"
+  s.homepage = "https://github.com/leohou/GameSDK"
   s.description = "TODO: Add long description of the pod here."
   s.frameworks = ["UIKit", "Foundation", "CoreTelephony", "SystemConfiguration", "CoreGraphics", "AdSupport", "Security", "WebKit"]
   s.xcconfig = {"OTHER_LDFLAGS"=>"-ObjC"}
